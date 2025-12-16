@@ -1,0 +1,29 @@
+<circuit version="1.1.0-SR1" rev="2005" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="0" >
+
+<item itemtype="Subcircuit" CircId="Uno-1" mainComp="false" Show_id="true" Show_Val="false" Pos="-104,-140" rotation="0" hflip="1" vflip="1" label="Uno-1" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="false">
+<mainCompProps MainCompId="mega328-109" Frequency="16 MHz" Program="DHTtester/build/arduino.avr.uno/DHTtester.ino.hex" Auto_Load="false" saveEepr="true" MainMcu="true" SerialMon="-1" />
+</item>
+
+<item itemtype="Dht22" CircId="Dht22-2" mainComp="false" Show_id="false" Show_Val="false" Pos="-72,-220" rotation="0" hflip="1" vflip="1" label="Dht22-2" idLabPos="-28,-32" labelrot="0" valLabPos="-16,20" valLabRot="0" DHT22="DHT22" TempInc="0.5 °C" HumiInc="5 _%" />
+
+<item itemtype="Led" CircId="Led-3" mainComp="false" ShowProp="Color" Show_id="false" Show_Val="true" Pos="-204,-144" rotation="0" hflip="-1" vflip="1" label="Led-3" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Red" Grounded="false" Threshold="1.8 V" MaxCurrent="30 mA" Resistance="0.6 Ω" />
+
+<item itemtype="Resistor" CircId="Resistor-10" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="-156,-144" rotation="0" hflip="1" vflip="1" label="Resistor-10" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="220 Ω" />
+
+<item itemtype="Ground" CircId="Ground-11" mainComp="false" Show_id="false" Show_Val="false" Pos="-236,-112" rotation="0" hflip="1" vflip="1" label="Ground-11" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="SerialPort" CircId="SerialPort-12" mainComp="false" Show_id="false" Show_Val="false" Pos="48,-172" rotation="0" hflip="1" vflip="1" label="SerialPort-12" idLabPos="-20,-32" labelrot="0" valLabPos="-16,20" valLabRot="0" Auto="true" Port="COM2" Baudrate="9600 _Bd" DataBits="8 _bits" StopBits="1 _bits" SerialMon="false" />
+
+<item itemtype="Connector" uid="Connector-21" startpinid="Dht22-2-inPin" endpinid="Uno-1-2" pointList="-108,-224,-108,-108,-96,-108" />
+
+<item itemtype="Connector" uid="Connector-22" startpinid="Uno-1-13" endpinid="Resistor-10-rPin" pointList="-96,-12,-140,-12,-140,-144" />
+
+<item itemtype="Connector" uid="Connector-23" startpinid="Resistor-10-lPin" endpinid="Led-3-lPin" pointList="-172,-144,-188,-144" />
+
+<item itemtype="Connector" uid="Connector-24" startpinid="Led-3-rPin" endpinid="Ground-11-Gnd" pointList="-220,-144,-236,-144,-236,-128" />
+
+<item itemtype="Connector" uid="Connector-25" startpinid="SerialPort-12-pin0" endpinid="Uno-1-0" pointList="8,-180,-96,-180,-96,-124" />
+
+<item itemtype="Connector" uid="Connector-26" startpinid="SerialPort-12-pin1" endpinid="Uno-1-1" pointList="8,-164,8,-116,-96,-116" />
+
+</circuit>

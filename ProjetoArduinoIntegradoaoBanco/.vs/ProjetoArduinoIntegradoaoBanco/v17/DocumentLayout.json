@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|e:\\arduino\\projetoarduinointegradoaobanco\\projetoarduinointegradoaobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|solutionrelative:projetoarduinointegradoaobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|e:\\arduino\\projetoarduinointegradoaobanco\\projetoarduinointegradoaobanco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|solutionrelative:projetoarduinointegradoaobanco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\projetoarduinointegradoaobanco\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|solutionrelative:projetoarduinointegradoaobanco\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\projetoarduinointegradoaobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|solutionrelative:projetoarduinointegradoaobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\projetoarduinointegradoaobanco\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E789A96F-9F9A-479F-BE29-E29BF8C50870}|ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco.csproj|solutionrelative:projetoarduinointegradoaobanco\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoArduinoIntegradoaoBanco\\Form1.cs",
+              "ToolTip": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\Form1.cs",
+              "RelativeToolTip": "ProjetoArduinoIntegradoaoBanco\\Form1.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAjwMEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:36:23.861Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoArduinoIntegradoaoBanco\\Form1.cs",
+              "ToolTip": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjetoArduinoIntegradoaoBanco\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T01:18:23.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\DAL.cs",
+              "RelativeDocumentMoniker": "ProjetoArduinoIntegradoaoBanco\\DAL.cs",
+              "ToolTip": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\DAL.cs",
+              "RelativeToolTip": "ProjetoArduinoIntegradoaoBanco\\DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:41:50.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\BLL.cs",
+              "RelativeDocumentMoniker": "ProjetoArduinoIntegradoaoBanco\\BLL.cs",
+              "ToolTip": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\BLL.cs",
+              "RelativeToolTip": "ProjetoArduinoIntegradoaoBanco\\BLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:41:31.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Erro.cs",
+              "DocumentMoniker": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\Erro.cs",
+              "RelativeDocumentMoniker": "ProjetoArduinoIntegradoaoBanco\\Erro.cs",
+              "ToolTip": "E:\\arduino\\ProjetoArduinoIntegradoaoBanco\\ProjetoArduinoIntegradoaoBanco\\Erro.cs",
+              "RelativeToolTip": "ProjetoArduinoIntegradoaoBanco\\Erro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:50:33.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
