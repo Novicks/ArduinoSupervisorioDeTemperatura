@@ -34,7 +34,8 @@ O projeto é ideal para fins **acadêmicos**, **laboratoriais** e **didáticos**
 
 > Tela principal do supervisório:
 
-![Interface do Supervisório](docs/interface.png)
+![Interface do Supervisório]<img width="817" height="492" alt="Github" src="https://github.com/user-attachments/assets/949dbfd2-ee9f-4781-aa77-584b0d11990f" />
+
 
 ---
 
@@ -69,6 +70,8 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 3. Compile a solução
 4. Execute o aplicativo
 5. Selecione a porta COM e conecte
+6. Para teste pode-se usar o simulador e o arquivo com codigo do arduino que se encontra na pasta "ParteArduinoSimulador"
+7. Dentro da Pasta ArduinoSImulador, usar o arquivo que contem o codigo DHTtester.ino
 
 
 ---
