@@ -34,7 +34,7 @@ O projeto é ideal para fins **acadêmicos**, **laboratoriais** e **didáticos**
 
 > Tela principal do supervisório:
 
-![Interface do Supervisório]<img width="817" height="492" alt="Github" src="https://github.com/user-attachments/assets/949dbfd2-ee9f-4781-aa77-584b0d11990f" />
+<img width="817" height="492" alt="Github" src="https://github.com/user-attachments/assets/949dbfd2-ee9f-4781-aa77-584b0d11990f" />
 
 
 ---
